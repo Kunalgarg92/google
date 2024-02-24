@@ -1,0 +1,431 @@
+.header{
+    background-color: #657891;
+    padding-left: 20px;
+}
+.first{
+    font-size: 40px;
+    margin-left: 30px;
+    padding-right: 20px;
+}
+.hey{
+    font-size: 100px;
+    padding-left: 80px;
+    padding-top: 50px;
+    color: white;
+}
+.yup{
+    color: lightcoral;
+}
+.line{
+    width: 60px;
+    height: 55px;
+    color: white;
+    margin-left: 40px;
+}
+.div2{
+    padding-top:60px ;
+    padding-left: 60px;
+    padding-bottom: 140px;
+}
+.namo{
+    padding-top: 40px;
+    margin-left: 40px;
+    color: white;
+}
+.nani{
+    background-color: #36495e;
+    height: 441px;
+    width: 1292px;
+}
+.container{
+    padding-left: 80px;
+}
+.shuruvaatnyi{
+    font-size: 45px;
+}
+.nya{
+    padding-top: 7px;
+    margin-top: 25px;
+    margin-left: 40px;
+    padding-bottom: 27px;
+}
+.button {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 60px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+.nano{
+    background-color: #24313f;
+    height: 580px;
+    width: 1292px;
+   margin: 0px;
+}
+.hay{
+    font-size: 40px;
+    padding-left: 80px;
+    padding-top: 50px;
+    color: white;
+}
+.lane{
+    width: 60px;
+    height: 55px;
+    color: lightcoral;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+.poo{
+    color: #FFFFF7;
+    font-size: 40px;
+}
+.jahan{
+    padding-top: 100px;
+}
+.color{
+    color: lightcoral;
+    margin-left: 130px;
+    position: absolute;
+    top: 660px;
+}
+.colorran{
+    color: lightcoral;
+    margin-left: 130px;
+    position: absolute;
+    top: 790px;
+}
+.coloranda{
+    color: lightcoral;
+    margin-left: 130px;
+    position: absolute;
+    top: 910px;
+}
+.text{
+    color: white;
+    margin-left: 130px;
+    padding-bottom: 20px;
+}
+.namoshiv{
+    background-color: #36495e;
+    height: 680px;
+}
+.kunalyup{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+.pari{
+    color:#f92b57 ;
+}
+.row2{
+    text-align: center;
+    padding-top: 30px;
+}
+.chunu{
+   color: white;
+   font-size: 15px;
+   margin-right: -10px;
+}
+.maggi{
+    position: absolute;
+    top: 1445px;
+    padding-left: 40px;
+}
+.chunua{
+    color:#f92b57 ;
+}
+.don2{
+    height: 115px;
+    text-align: center;
+    border-radius: 50%;
+    border-color: white;
+}
+.footer{
+    background-color: #F6B17A;
+    height: 150px;
+}
+.secondfooter{
+    background-color: #2d3040;
+    height: 180px;
+}
+.heeh{
+    padding-top: 25px;
+    padding-left: 200px;
+    color: white;
+    padding-right: 40px;
+}
+.prabhu{
+    padding-right: 250px;
+    font-size: 50px;
+    color: #520404;
+}
+.hema{
+    background-color: #F6B17A;
+    border-color: white;
+    border-top-left-radius: 20px;  
+    border-top-right-radius: 20px;
+    border: 7px solid white;
+}
+.yep{
+    color: white;
+}
+.humhyum{
+    background-color: white;
+    font-size: 20px;
+}
+.ramji{
+    padding-top: 45px;
+    color: white;
+}
+.hippo{
+    padding-top: 30px;
+}
+.svg{
+    margin-left: 160px;
+}
+.yummy{
+    color: white;
+    font-size: 20px;
+    padding-right: 10px;
+}
+.ramjiram{
+    padding-top: 15px;
+    color: white;
+    padding-left: 140px;
+    font-size: 45px;
+}
+.ramjiramji{
+    padding-top: 30px;
+    color: white;
+}
+.cuti{
+    color: white;
+   padding-left: 140px;
+}
+.cati{
+    color: white;
+    padding-left: 80px;
+}
+.background-image{
+    background-image: url('C:/Users/hp5cd/OneDrive/Desktop/web dev/project3csshtmljs/css.png');
+    height: 40px;
+    border-radius: 50%;
+    border-color: white;
+    width: 40px;
+    background-size: contain;
+   text-align: center;
+   padding-left: 15px;
+   padding-top: 5px;
+}
+.nandi{
+    color: grey;
+    font-size: 60px;
+    position: relative;
+    top: 20px;
+}
+.chunchuna{
+    color: white;
+    font-size: 15px;
+    margin-right: -10px;
+}
+.half-circle {
+    width: 130px;
+    height: 65px;
+    border-top-left-radius: 110px;  
+    border-top-right-radius: 110px;
+    border: 30px solid black;
+    border-bottom: 0;
+    position: absolute;
+    top: 290px;
+    right: 1185px;
+    transform: rotate(90deg);
+}
+.red-circle {
+    width: 130px;
+    height: 65px;
+    border-top-left-radius: 110px;  
+    border-top-right-radius: 110px;
+    border: 40px solid lightcoral;
+    border-bottom: 0;
+    position: absolute;
+    top: 491px;
+    right: 190px;
+}
+.third-circle {
+    width: 130px;
+    height: 65px;
+    border-top-left-radius: 110px;  
+    border-top-right-radius: 110px;
+    border: 40px solid #6b656a;
+    border-bottom: 0;
+    position: absolute;
+    top: 1045px;
+    right: -32px;
+    transform: rotate(-90deg);
+}
+.forth-circle {
+    width: 130px;
+    height: 65px;
+    border-top-left-radius: 110px;  
+    border-top-right-radius: 110px;
+    border: 40px solid #3b2835;
+    border-bottom: 0;
+    position: absolute;
+    top: 1767px;
+    right: 0px;
+}
+.fifth-circle {
+    width: 130px;
+    height: 65px;
+    border-top-left-radius: 110px;  
+    border-top-right-radius: 110px;
+    border: 40px solid #24313f;
+    border-bottom: 0;
+    position: absolute;
+    top: 1917px;
+}
+.first-square{
+    height:60px;
+    width: 60px;
+    position: absolute;
+    top: 325px;
+    background-color: #add8e6;
+}
+.second-square{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 470px;
+    right: 168px;
+    background-color: #add8e6;
+}
+.third-square{
+    height: 67px;
+    width: 67px;
+    position: absolute;
+    top: 1010px;
+    right: 0px;
+    background-color: #D3D3D3;
+}
+.forth-square{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 1771px;
+    right: 0px;
+    background-color: #add8e6;
+}
+.fifth-square{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 1922px;
+    background-color: #add8e6;
+}
+.sixth-square{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 564px;
+    background-color: black;
+}
+.circle{
+    width: 139px;
+    height: 64.5px;
+    border-top-left-radius: 110px;  
+    border-top-right-radius: 110px;
+    background-color:  #D3D3D3;
+    position: absolute;
+    top: 491.5px;
+    right: 280px;
+}
+.lines{
+   background-color: white;
+   height: 1px;
+    width: 70px;
+    margin-bottom: 5px;
+}
+.lines-1{
+    background-color: white;
+    height: 1px;
+     width: 70px;
+     margin-bottom: 5px;
+ }
+ 
+ .lines-2{
+    background-color: white;
+    height: 1px;
+     width: 70px;
+     margin-bottom: 5px;
+ }
+ .lines-3{
+    background-color: white;
+    height: 1px;
+     width: 70px;
+ }
+ .lastkaam{
+    position: absolute;
+    top: 372px;
+    left: 0px;
+ }
+ .lastkaam2{
+    position: absolute;
+    top: 500px;
+    right: 360px;
+ }
+ .lastkaam3{
+    position: absolute;
+    top: 602px;
+    left: 20px;
+ }
+ .lastkaam4{
+    position: absolute;
+    top: 1075px;
+   right: 0px;
+ }
+ .lastkaam5{
+    position: absolute;
+    top: 1812px;
+    right: 0px;
+ }
+ .lastkaam6{
+    position: absolute;
+    top: 1962px;
+    left: 0px;
+ }
+.yupppy{
+    margin-top: 40px;
+    background-color: rgb(238, 246, 250);
+}
+.yuppppy{
+    margin-top: 40px;
+    background-color: #CDF5FD;
+}
+.yummypa{
+    padding-top: 15px;
+    padding-left: 400px;
+    width: 900px;
+}
+.pannu{
+    padding-top: 20px;
+}
+.nachobc{
+    margin-top: 30px;
+    width: 100px;
+    text-align: center;
+}
+.pranav{
+    color: rgb(55, 30, 120);
+    text-decoration: none;
+}
+.aboutnya{
+    color: white;
+    text-decoration: none;
+}
+
